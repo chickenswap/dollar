@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.aee7f6b8.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/0.aee7f6b8.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/css/main.c44efd69.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/main.d6233581.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/runtime-main.30acb758.js",
+    "static/js/3.96f98636.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/3.96f98636.chunk.js",
+    "static/js/4.0a17e0fb.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/4.0a17e0fb.chunk.js",
+    "static/js/5.ef45f15a.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/5.ef45f15a.chunk.js",
+    "static/js/6.6693b007.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/6.6693b007.chunk.js",
+    "static/js/7.1374f84d.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/7.1374f84d.chunk.js",
+    "static/js/8.c5e9586c.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/8.c5e9586c.chunk.js",
+    "static/js/9.e4f0bd4e.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/9.e4f0bd4e.chunk.js",
+    "static/js/10.4756a570.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/10.4756a570.chunk.js",
+    "static/js/11.e70a8b98.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/11.e70a8b98.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/index.html",
+    "precache-manifest.a35fd994f3017baad632cf1c0c40f70a.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/precache-manifest.a35fd994f3017baad632cf1c0c40f70a.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/service-worker.js",
+    "static/js/3.96f98636.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/3.96f98636.chunk.js.LICENSE.txt",
+    "static/js/5.ef45f15a.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/5.ef45f15a.chunk.js.LICENSE.txt",
+    "static/js/6.6693b007.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/6.6693b007.chunk.js.LICENSE.txt",
+    "static/js/7.1374f84d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/7.1374f84d.chunk.js.LICENSE.txt",
+    "static/js/8.c5e9586c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/js/8.c5e9586c.chunk.js.LICENSE.txt",
+    "static/media/Bank.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/Bank.e5e6c1aa.png",
+    "static/media/USDT.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/USDT.839a0f0d.png",
+    "static/media/Welcome.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/Welcome.8632863f.png",
+    "static/media/bac.svg": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/bac.89e29678.svg",
+    "static/media/farmer.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/farmer.9c110528.png",
+    "static/media/join.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/join.559ee3ae.png",
+    "static/media/kfc-bond-logo.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/kfc-bond-logo.f0ae9a54.png",
+    "static/media/kfc-cash-logo.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/kfc-cash-logo.bf8f793f.png",
+    "static/media/kfc-share-logo.png": "https://cdn.jsdelivr.net/gh/chickenswap/dollar@main/static/media/kfc-share-logo.1fe975fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30acb758.js",
+    "static/js/3.96f98636.chunk.js",
+    "static/css/main.c44efd69.chunk.css",
+    "static/js/main.d6233581.chunk.js"
+  ]
+}
